@@ -1,4 +1,4 @@
-package com.company;
+package com.elite.util;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;

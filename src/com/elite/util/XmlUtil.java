@@ -1,4 +1,4 @@
-package com.company.util;
+package com.elite.util;
 
 //import com.thoughtworks.xstream.XStream;
 //import com.thoughtworks.xstream.io.xml.StaxDriver;
@@ -8,10 +8,6 @@ package com.company.util;
 //import org.dom4j.Element;
 //import org.dom4j.io.SAXReader;
 
-
-import java.io.ByteArrayInputStream;
-import java.io.UnsupportedEncodingException;
-import java.util.*;
 
 public class XmlUtil {
     /**

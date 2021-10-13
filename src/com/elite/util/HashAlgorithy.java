@@ -1,13 +1,10 @@
-package com.company;
-
-import com.sun.xml.internal.fastinfoset.algorithm.UUIDEncodingAlgorithm;
-import sun.net.util.URLUtil;
+package com.elite.util;
 
 import java.io.UnsupportedEncodingException;
 import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
-import java.util.*;
+
 /**
  * @description 哈希加密算法
  * MD5	128 bits	16 bytes
